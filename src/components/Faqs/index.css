@@ -1,0 +1,26 @@
+/* Write your code here. */
+.page {
+  background-color: #9aa5b1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 50px;
+  min-height: 100vh;
+  max-height: 100%;
+}
+.card-container {
+  width: 100%;
+  padding: 50px;
+  background-color: white;
+  border-radius: 10px;
+}
+.faqs-heading {
+  text-align: center;
+  color: #cb8805;
+}
+.list-container {
+  list-style-type: none;
+  width: 100%;
+  padding: 0px;
+}
